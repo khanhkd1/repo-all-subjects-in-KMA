@@ -1,0 +1,2 @@
+KhachHang{maKH='kh1', tenKH='kieu duy khanh', namSinh=2000}
+KhachHang{maKH='kh2', tenKH='thuy linh', namSinh=2000}
